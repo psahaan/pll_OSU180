@@ -60,10 +60,25 @@ For PLL we should obtain a critically damped response as it has less oscillation
 
 ![4](https://user-images.githubusercontent.com/64180927/137866556-5c38e214-d259-44c4-a194-7eaad652361a.png) \ 
 
-## PHASE DETECTOR 
+## PHASE DETECTOR   
+
+##### RUNNING IN NGSPICE \ 
+
+![5](https://user-images.githubusercontent.com/64180927/137888350-925fa14d-625a-4bcc-abf3-705eb71ce1db.png) 
+
+#### RESULT \ 
 
 
+![6](https://user-images.githubusercontent.com/64180927/137888425-70893178-20ca-42de-8cd2-535c71bceaed.png)
+
+####  PHASE DETECTOR AND CHARGE PUMP OUTPUT  WITHOUT LPF  
 
 
+![9](https://user-images.githubusercontent.com/64180927/137888762-45ec1f6f-13c6-43e3-a70b-182d2bc1fa8e.png) 
+
+#### PHASE DETECTOR AND CHARGE PUMP OUTPUT WITH LPF 
+
+
+![10](https://user-images.githubusercontent.com/64180927/137888957-26cdbf28-075b-4f62-a788-e98e33c07083.png)
 
 
