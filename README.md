@@ -9,8 +9,19 @@ This course will be an in-depth introduction to On-Chip Clock Multiplier (PLL) d
 ##   Instructors 
 ###  Mr.Kunal Ghosh and Mr.Paras Gidd 
 
-## What I have Learnt in the Workshop  
 
+## INTRODUCTION 
+###  What I have Learnt in the Workshop  
 
+1) What , Why and How a PLL is used to achieve frequency multiplication ?
+2) How to obtain a netlist from circuit and do a pre-layout simulation?
+3) How to perfrom layout and extract parasitic information and obtain postlayout netlist and again perform simulation? 
+4) The most important know how i learned through this workshop is learning how to obtain a larger block (here PLL) by connecting the smaller blocks (here Phase-   detector,chargepump,low-pass filter,VCO,frequency-divider) 
 
+### 1)Design-specifications 
+This is the starting point of the design , this we usually get from client (here VSD pvt-ltd) 
 
+### 2)Architectural Design 
+Based on the specifications required we do literature survey and come to an architecture. Here the architecture is selected as shown below
+
+![Screenshot 2021-10-19 115403](https://user-images.githubusercontent.com/64180927/137855012-270feb3f-0daa-43f7-8957-79c0f0c76d04.png)
