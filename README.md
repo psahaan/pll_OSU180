@@ -1,14 +1,14 @@
 # On Chip Clock Multiplier (PLL) on OSU 180 
 
-
+## THEORY
  ![Screenshot 2021-10-19 110609](https://user-images.githubusercontent.com/64180927/137849917-61ecb4f1-148b-48bd-a001-a5b2c4fae571.png)
+
  
  ## About the Workshop 
 This course will be an in-depth introduction to On-Chip Clock Multiplier (PLL) design and layout using open-source EDA tools (ngspice & Magic) on OSU180nm. This course starts with fundamentals (from CMOS inverter & basic semiconductor physics) to Advanced IP design Process, issues & ways to deal with them (by live demo of entire IP from Design to Layout).
 
 ##   Instructors 
-###  Mr.Kunal Ghosh and Mr.Paras Gidd 
-
+###  Mr.Kunal Ghosh and Mr.Paras Gidd
 
 ## INTRODUCTION 
 ###  What I have Learnt in the Workshop  
@@ -32,4 +32,16 @@ Based on the specifications required we do literature survey and come to an arch
  **MUX** : Here MUX is used to select between VCO only mode or PLL \
  **VCO** : VCO is used to get the output frequency based on the input DC value \
  **Frequency divider** :Here a basic D-Filp-flop based counter is used to get frequency division 
+ 
+ ### Operation of feedback-loop 
+![control](https://user-images.githubusercontent.com/64180927/137863054-f5a5a0da-3443-4501-ba7a-92bc1f077879.png) \
+As shown above we consider a second-order feed back systesm , the response can be as shown below based on location of  poles  
+
+![control2](https://user-images.githubusercontent.com/64180927/137864295-6423c779-f8c2-40cd-afb0-53fd176795c8.png) 
+
+For PLL we should obtain a critically damped response as it has less oscillations and its fast. 
+
+## LABS 
+
+
 
