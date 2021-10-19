@@ -81,4 +81,27 @@ For PLL we should obtain a critically damped response as it has less oscillation
 
 ![10](https://user-images.githubusercontent.com/64180927/137888957-26cdbf28-075b-4f62-a788-e98e33c07083.png)
 
+#### VCO WITH INPUT VOLTAGE OF 0.5V  
+#### NETLIST 
+
+![13](https://user-images.githubusercontent.com/64180927/137889159-e2fe3f9a-0d7d-4456-8263-d0ba521930f7.png)
+
+#### SIMULATION USING NGSPICE 
+![11](https://user-images.githubusercontent.com/64180927/137889450-7fab236d-923d-4686-b80f-aaf953e3a71c.png)
+
+#### RESULT 
+![12](https://user-images.githubusercontent.com/64180927/137889545-17652d3f-b289-4afe-bab9-d57cad00634e.png)
+
+
+#### VCO WITH INPUT VOLTAGE OF 0.6V  
+#### NETLIST 
+
+![15](https://user-images.githubusercontent.com/64180927/137889639-e23de1b8-25ce-4503-89e6-ed3e78dbb168.png)
+
+#### RESULT 
+
+![14](https://user-images.githubusercontent.com/64180927/137889722-86a4a1f7-6714-4013-ba63-0212494fad28.png)
+
+
+
 
