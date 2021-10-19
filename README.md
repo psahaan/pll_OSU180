@@ -100,8 +100,18 @@ For PLL we should obtain a critically damped response as it has less oscillation
 
 #### RESULT 
 
-![14](https://user-images.githubusercontent.com/64180927/137889722-86a4a1f7-6714-4013-ba63-0212494fad28.png)
+![14](https://user-images.githubusercontent.com/64180927/137889722-86a4a1f7-6714-4013-ba63-0212494fad28.png) 
+
+#### PLL SIMULATION 
 
 
+![16](https://user-images.githubusercontent.com/64180927/137890029-5e5584c3-9409-4887-89f5-ecd1d53bed24.png)
 
+#### RESULTS 
 
+![17](https://user-images.githubusercontent.com/64180927/137890096-cf0ba1d7-d761-40a4-8e05-d031560a5204.png)
+
+![18](https://user-images.githubusercontent.com/64180927/137890116-d43b0fdd-af94-43e9-91f6-153592311440.png)
+
+From the above simualtion grah we can observe that the  ouptput frequency is 8 times the input frequency. So a frequency multiplication of 8 is achieved 
+## POST-LAYOUT SIMULATIONS 
