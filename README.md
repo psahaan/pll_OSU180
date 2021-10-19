@@ -192,3 +192,6 @@ From the above simualtion grah we can observe that the  ouptput frequency is 8 t
 ## CONCLUSION 
 I have learnt the flow of designing a PLL and how to design a system from lower block to higher blocks.
 
+### REFERENCES 
+1) https://github.com/parasgidd/avsdpll_3v3 
+2) VLSI system design pvt ltd tutorial sessions 
