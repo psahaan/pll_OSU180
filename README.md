@@ -62,7 +62,7 @@ For PLL we should obtain a critically damped response as it has less oscillation
 
 ## PHASE DETECTOR   
 
-##### RUNNING IN NGSPICE \ 
+##### RUNNING IN NGSPICE  
 
 ![5](https://user-images.githubusercontent.com/64180927/137888350-925fa14d-625a-4bcc-abf3-705eb71ce1db.png) 
 
