@@ -42,6 +42,28 @@ As shown above we consider a second-order feed back systesm , the response can b
 For PLL we should obtain a critically damped response as it has less oscillations and its fast. 
 
 ## LABS 
+## PRE-LAYOUT SIMULATIONS 
+
+## INVERTER 
+
+##### NETLIST FROM ESIM 
+![1](https://user-images.githubusercontent.com/64180927/137866353-9127cbfe-92c7-4187-9a1b-9120bb284923.png) \ 
+
+##### NETLIST FOR  NGSPICE 
+![2](https://user-images.githubusercontent.com/64180927/137866440-22af5903-be15-4664-bf41-a0b553cc3799.png) \ 
+
+##### RUNNING NGSPICE IN TERMINAL \
+ 
+![3](https://user-images.githubusercontent.com/64180927/137866492-fb61304f-7787-433a-80cd-6b08fa057461.png) \
+
+#### RESULT  
+
+![4](https://user-images.githubusercontent.com/64180927/137866556-5c38e214-d259-44c4-a194-7eaad652361a.png) \ 
+
+## PHASE DETECTOR 
+
+
+
 
 
 
