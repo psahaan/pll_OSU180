@@ -114,11 +114,37 @@ For PLL we should obtain a critically damped response as it has less oscillation
 ![18](https://user-images.githubusercontent.com/64180927/137890116-d43b0fdd-af94-43e9-91f6-153592311440.png)
 
 From the above simualtion grah we can observe that the  ouptput frequency is 8 times the input frequency. So a frequency multiplication of 8 is achieved 
-## POST-LAYOUT SIMULATIONS 
-Opening MAGIC TOOL with the intended technology  library
+## POST-LAYOUT SIMULATIONS  
+### BASIC STEPS
+
+![21](https://user-images.githubusercontent.com/64180927/137895963-fe17935a-2bcd-4a9c-8f00-20a260b31bc7.png)
+
+Opening MAGIC TOOL with the intended technology library
 
 ![19](https://user-images.githubusercontent.com/64180927/137894528-cd532396-23f3-4b9b-bbba-9c3e437debdb.png)
 
 ![20](https://user-images.githubusercontent.com/64180927/137894571-6a60cbee-0b1b-484f-9cc1-a6b2b61d24c0.png)
 
+Opening layout of phase detector  
+![22](https://user-images.githubusercontent.com/64180927/137900202-30a5873c-268d-49d8-9d22-da0d333a0555.png)
+
+Phase detector layout 
+![23](https://user-images.githubusercontent.com/64180927/137897705-37e33c06-d032-4c0e-b96d-7b2d79f9e073.png)
+
+POST-LAYOUT SIMULATION 
+![24](https://user-images.githubusercontent.com/64180927/137901090-a5fbe30d-3f47-40a9-a545-8f34ad3d84b8.png)
+
+VCO LAYOUT 
+
+![25](https://user-images.githubusercontent.com/64180927/137908588-fa76e2bb-ec9f-4601-84cf-3945213427c1.png)
+
+POST LAYOUT SIMULATION OF VCO FOR VIN = 0.545V 
+
+![28](https://user-images.githubusercontent.com/64180927/137910807-c3993f48-45fd-4869-a527-014171048581.png)
+![29](https://user-images.githubusercontent.com/64180927/137910828-a0519a06-d82d-4bf0-b175-6b8b5c1ec0ae.png)
+
+
+POST LAYOUT SIMULATION OF VCO FOR VIN = 0.5V
+![26](https://user-images.githubusercontent.com/64180927/137910889-77fbc32f-8b87-43cb-8a63-c3d1d7dc973a.png)
+![27](https://user-images.githubusercontent.com/64180927/137910919-8d70482b-5246-47c7-90cd-bc2ba7603f9d.png)
 
