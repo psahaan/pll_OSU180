@@ -162,3 +162,20 @@ FREQUENCY DIVIDER BY 2 LAYOUT
 FREQUENCY DIVIDER BY  8 
 ![34](https://user-images.githubusercontent.com/64180927/137915578-5c4b9378-4b9f-4a13-8f37-23dc5bdc38a8.png)
 
+ POST LAYOUT SIMULATION OF FREQUENCY DIVIDER BY 8 
+ 
+ ![35](https://user-images.githubusercontent.com/64180927/137916407-e5f986db-34b8-4cf2-8a09-db6aa22f5539.png)
+
+PLL FINAL LAYOUT  
+
+![36](https://user-images.githubusercontent.com/64180927/137920097-e85bc8be-e2bc-4515-beb6-50352e315f0d.png)
+
+PLL POST LAYOUT SIMULATION  
+
+![37](https://user-images.githubusercontent.com/64180927/137922256-bfc6c9a8-4a86-4a05-b103-ffc617361a15.png)
+ 
+ POST LAYOUT SIMULATION RESULTS
+ 
+
+![39](https://user-images.githubusercontent.com/64180927/137922709-dea9e992-b7e5-424a-9ca4-f92aab05e264.png)
+
