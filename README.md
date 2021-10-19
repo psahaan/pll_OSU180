@@ -115,3 +115,10 @@ For PLL we should obtain a critically damped response as it has less oscillation
 
 From the above simualtion grah we can observe that the  ouptput frequency is 8 times the input frequency. So a frequency multiplication of 8 is achieved 
 ## POST-LAYOUT SIMULATIONS 
+Opening MAGIC TOOL with the intended technology  library
+
+![19](https://user-images.githubusercontent.com/64180927/137894528-cd532396-23f3-4b9b-bbba-9c3e437debdb.png)
+
+![20](https://user-images.githubusercontent.com/64180927/137894571-6a60cbee-0b1b-484f-9cc1-a6b2b61d24c0.png)
+
+
