@@ -26,7 +26,7 @@ Based on the specifications required we do literature survey and come to an arch
 
 ![Screenshot 2021-10-19 115403](https://user-images.githubusercontent.com/64180927/137855012-270feb3f-0daa-43f7-8957-79c0f0c76d04.png) 
 
- **Phase-detector** : Based on the feedback from the frequency divider it creates two signals called up and down which are given to the charge-pump \
+ **Phase-detector** : Based on the feedback from the frequency divider it creates two signals ,up and down which are given to the charge-pump\
  **Charge pump**  : Charge-pump consists of power MOSFETS it helps in better charging of the capacitors present in the next stage which is a LPF\
  **LPF** : LPF is used for smoothning the waveform and get a dc value \
  **MUX** : Here MUX is used to select between VCO only mode or PLL \
