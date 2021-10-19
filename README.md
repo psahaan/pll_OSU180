@@ -148,3 +148,17 @@ POST LAYOUT SIMULATION OF VCO FOR VIN = 0.5V
 ![26](https://user-images.githubusercontent.com/64180927/137910889-77fbc32f-8b87-43cb-8a63-c3d1d7dc973a.png)
 ![27](https://user-images.githubusercontent.com/64180927/137910919-8d70482b-5246-47c7-90cd-bc2ba7603f9d.png)
 
+FREQUENCY DIVIDER BY 2 LAYOUT 
+
+![31](https://user-images.githubusercontent.com/64180927/137913335-9dd7d7ab-57f1-4f2d-901d-40d3f60760bd.png)
+![30](https://user-images.githubusercontent.com/64180927/137913356-e4662538-fbce-48b2-b9cd-8a05e3bd2144.png)
+ 
+ POST LAYOUT SIMULATIONS 
+ 
+ ![33](https://user-images.githubusercontent.com/64180927/137914380-7ff72a22-4eb0-446e-b4da-cff98dd70646.png)
+
+![32](https://user-images.githubusercontent.com/64180927/137914404-81168bb8-a26f-46a3-9cec-a3f34c8514f8.png)
+
+FREQUENCY DIVIDER BY  8 
+![34](https://user-images.githubusercontent.com/64180927/137915578-5c4b9378-4b9f-4a13-8f37-23dc5bdc38a8.png)
+
